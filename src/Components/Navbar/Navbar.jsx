@@ -44,7 +44,8 @@ const Navbar = () => {
               marginLeft: "15%",
               // marginRight: "30%",
             }}
-            src="/Logo.jpg"
+           // src="/Logo.jpg"
+            src="https://www.thenewsminute.com/sites/default/files/styles/slideshow_image_size/public/Myntra_Logo_1200x800.jpg?itok=QuRN2mnR"
             // src={V_Logo}
             alt=""
           />
@@ -277,31 +278,31 @@ const Navbar = () => {
             </span>
           </p>
           {/* Admin  */}
-          <p
-            style={{
-              // border: '1px solid red',
-              wordWrap: "normal",
-              marginLeft: "2%",
-              cursor: "pointer",
-            }}
-          >
-            <span>
-              <Link to={"/admin-dashboard"} className="rightLink">
-                <img
-                  style={{
-                    marginLeft: "15%",
-                    fontSize: "12px",
-                    width: "20px",
-                    marginBottom: "5px",
-                  }}
-                  src="/admin.png"
-                  alt=""
-                />
-                Admin
-              </Link>
-            </span>
-          </p>
-          {/* </Link> */}
+//           <p
+//             style={{
+//               // border: '1px solid red',
+//               wordWrap: "normal",
+//               marginLeft: "2%",
+//               cursor: "pointer",
+//             }}
+//           >
+//             <span>
+//               <Link to={"/admin-dashboard"} className="rightLink">
+//                 <img
+//                   style={{
+//                     marginLeft: "15%",
+//                     fontSize: "12px",
+//                     width: "20px",
+//                     marginBottom: "5px",
+//                   }}
+//                   src="/admin.png"
+//                   alt=""
+//                 />
+//                 Admin
+//               </Link>
+//             </span>
+//           </p>
+//           {/* </Link> */}
         </div>
       </Div>
     </>
