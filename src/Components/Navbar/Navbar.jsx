@@ -278,7 +278,7 @@ const Navbar = () => {
             </span>
           </p>
           {/* Admin  */}
-//           <p
+{/* //           <p
 //             style={{
 //               // border: '1px solid red',
 //               wordWrap: "normal",
@@ -302,7 +302,7 @@ const Navbar = () => {
 //               </Link>
 //             </span>
 //           </p>
-//           {/* </Link> */}
+//           </Link> */}
         </div>
       </Div>
     </>
