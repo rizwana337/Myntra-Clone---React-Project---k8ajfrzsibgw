@@ -34,7 +34,7 @@ function PaymentNavbar() {
       >
         <Box>
           <Link to="/" >
-            <Image src={'/Logo.jpg'} alt="logo" w={["50px", "60px", "70px"]} pl={2} />
+            <Image src={'https://gumlet.assettype.com/afaqs%2F2021-01%2F15f5f827-8e29-4520-af8d-a0f353b8da17%2Fimages.png?auto=format%2Ccompress&w=1200'} alt="logo" w={["50px", "60px", "70px"]} pl={2} />
           </Link>
         </Box>
         <HStack spacing={[2, 3, 4]} >

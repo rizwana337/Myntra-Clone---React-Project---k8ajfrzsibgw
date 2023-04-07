@@ -44,7 +44,9 @@ const Navbar = () => {
               marginLeft: "15%",
               // marginRight: "30%",
             }}
-            src="/Logo.jpg"
+            // src="/Logo.jpg"
+            src="https://gumlet.assettype.com/afaqs%2F2021-01%2F15f5f827-8e29-4520-af8d-a0f353b8da17%2Fimages.png?auto=format%2Ccompress&w=1200"
+
             // src={V_Logo}
             alt=""
           />
@@ -277,7 +279,7 @@ const Navbar = () => {
             </span>
           </p>
           {/* Admin  */}
-          <p
+          {/* <p
             style={{
               // border: '1px solid red',
               wordWrap: "normal",
@@ -300,7 +302,7 @@ const Navbar = () => {
                 Admin
               </Link>
             </span>
-          </p>
+          </p> */}
           {/* </Link> */}
         </div>
       </Div>

@@ -88,8 +88,11 @@ hr {
     margin: 1%;
     margin-left: 15%;
     font-weight: 700;
-    color: rgb(19, 19, 21);
+    /* color: rgb(19, 19, 21); */
+    color: rgb(85, 85, 91);
+
     text-align: left;
+    font-size: 14px;
 }
 
 .footer_popular_details {
@@ -99,6 +102,12 @@ hr {
     color: rgb(100, 100, 108);
     margin-bottom: 2%;
     text-align: left;
+    font-size: 13px;
+    /* font-family: 'sans-serif'; */
+}
+.footer_popular_details h2{
+    font-weight: 700;
+    color: rgb(85, 85, 91);
 }
 
 .bottom {
