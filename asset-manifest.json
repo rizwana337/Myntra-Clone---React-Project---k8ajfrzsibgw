@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/css/main.0c7c950a.css",
-    "main.js": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/main.b652bbe2.js",
-    "static/js/787.acbd0b2f.chunk.js": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/787.acbd0b2f.chunk.js",
+    "main.css": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/css/main.6b77bc07.css",
+    "main.js": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/main.554c21ae.js",
+    "static/js/787.50ac0ea2.chunk.js": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/787.50ac0ea2.chunk.js",
     "index.html": "/Myntra-Clone---React-Project---k8ajfrzsibgw/index.html",
-    "main.0c7c950a.css.map": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/css/main.0c7c950a.css.map",
-    "main.b652bbe2.js.map": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/main.b652bbe2.js.map",
-    "787.acbd0b2f.chunk.js.map": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/787.acbd0b2f.chunk.js.map"
+    "main.6b77bc07.css.map": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/css/main.6b77bc07.css.map",
+    "main.554c21ae.js.map": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/main.554c21ae.js.map",
+    "787.50ac0ea2.chunk.js.map": "/Myntra-Clone---React-Project---k8ajfrzsibgw/static/js/787.50ac0ea2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c7c950a.css",
-    "static/js/main.b652bbe2.js"
+    "static/css/main.6b77bc07.css",
+    "static/js/main.554c21ae.js"
   ]
 }
